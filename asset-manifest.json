@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/yashArrived/Testimonial_slider/static/css/main.3f9317d9.css",
-    "main.js": "/yashArrived/Testimonial_slider/static/js/main.f8e90976.js",
-    "index.html": "/yashArrived/Testimonial_slider/index.html",
-    "main.3f9317d9.css.map": "/yashArrived/Testimonial_slider/static/css/main.3f9317d9.css.map",
-    "main.f8e90976.js.map": "/yashArrived/Testimonial_slider/static/js/main.f8e90976.js.map"
+    "main.css": "/Testimonial_slider/static/css/main.3f9317d9.css",
+    "main.js": "/Testimonial_slider/static/js/main.f8e90976.js",
+    "index.html": "/Testimonial_slider/index.html",
+    "main.3f9317d9.css.map": "/Testimonial_slider/static/css/main.3f9317d9.css.map",
+    "main.f8e90976.js.map": "/Testimonial_slider/static/js/main.f8e90976.js.map"
   },
   "entrypoints": [
     "static/css/main.3f9317d9.css",
